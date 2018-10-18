@@ -1,0 +1,10 @@
+/*		ALEJANDRA PERALTA ESCAMILLA - 7°K - SEGURIDAD DE DATOS		*/
+textarea {
+	width: 49%;
+	resize: vertical;
+	min-height: 156px;
+}
+
+.fl {
+	float: right;
+}
